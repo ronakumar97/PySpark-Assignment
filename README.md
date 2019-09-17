@@ -1,2 +1,2 @@
 # PySpark-Assignment
-Pyspark Assignment for building model with Random Forest Classifier
+Jupyter notebook of Pyspark Assignment for building model with Random Forest Classifier.
